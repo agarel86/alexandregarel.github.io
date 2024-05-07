@@ -12,7 +12,7 @@ title                    : "Alexandre Garel Website"
 title_separator          : "-"
 name                     : &name "Alexandre Garel"
 description              : &description "Academic website"
-url                      : "https://agarel86/alexandregarel.github.io"
+url                      : https://agarel86/alexandregarel.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://agarel86/alexandregarel.github.io"
 
