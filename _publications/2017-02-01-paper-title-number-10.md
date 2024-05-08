@@ -6,5 +6,5 @@ excerpt: "Bank capital is the cornerstone of bank regulation and is considered a
 date: 2017-02-01
 venue: 'Journal of Banking and Finance'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0378426616302047?casa_token=CXQdoljLdjsAAAAA:JhP0GHC1zTk9rSw0JpFssNhhXmklYO_U1o5EHOKjizECF39nEYDU0IcMSGqBGYYPcPEyzZo'
-citation: 'Garel, A., & Petit-Romec, A. (2017). Bank capital in the crisis: It's not just how much you have but who provides it. Journal of banking & finance, 75, 152-166.'
+citation: "Garel, A., & Petit-Romec, A. (2017). Bank capital in the crisis: It's not just how much you have but who provides it. Journal of banking & finance, 75, 152-166."
 ---
