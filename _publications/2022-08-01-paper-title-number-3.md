@@ -1,7 +1,7 @@
 ---
 title: "Music Sentiment and Stock Returns around the World"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2022-08-01-paper-title-number-3
 excerpt: 'This paper introduces a real-time, continuous measure of national sentiment that is language-free and thus comparable globally: the positivity of songs that individuals choose to listen to. This is a direct measure of mood that does not pre-specify certain mood-affecting events nor assume the extent of their impact on investors. We validate our music-based sentiment measure by correlating it with mood swings induced by seasonal factors, weather conditions, and COVID-related restrictions. We find that music sentiment is positively correlated with same-week equity market returns and negatively correlated with next-week returns, consistent with sentiment-induced temporary mispricing. Results also hold under a daily analysis and are stronger when trading restrictions limit arbitrage. Music sentiment also predicts increases in net mutual fund flows, and absolute sentiment precedes a rise in stock market volatility. It is negatively associated with government bond returns, consistent with a flight to safety.'
 date: 2022-08-01
 venue: 'Journal of Financial Economics'
