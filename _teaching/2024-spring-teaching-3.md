@@ -1,5 +1,5 @@
 ---
-title: "Machine Learnings for Finance"
+title: "Machine Learning for Finance"
 collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2024-spring-teaching-3
