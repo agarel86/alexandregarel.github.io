@@ -7,4 +7,4 @@ date: 2022-02-25
 venue: 'Management Science'
 citation: 'Bourveau, T., Brochet, F., & Garel, A. (2022). The capital market consequences of tenure-based voting rights: Evidence from the Florange Act. Management Science, 68(12), 9107-9128.'
 ---
-[Link to the paper.](https://www.sciencedirect.com/science/article/pii/S0304405X21003718?casa_token=A0Rug24x12QAAAAA:W7A1i7-1-MkTGozoz0SJ2WXfg8s3f_jyU2x7ZKoJrvEJiqkU_z5OJONPM3ZNndjga8k6V5I)
+[Link to the paper.](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.4320?journalCode=mnsc)
