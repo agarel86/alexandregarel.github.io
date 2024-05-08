@@ -2,9 +2,9 @@
 title: "Audencia Business School"
 collection: teaching
 type: "Postgraduate course"
-permalink: /teaching/Audencia-spring-teaching-1
+permalink: /teaching/2024-spring-teaching-1
 venue: "Audencia Business Schools"
-date: 2021-2024
+date: 2024
 location: "France, Nantes"
 ---
 
