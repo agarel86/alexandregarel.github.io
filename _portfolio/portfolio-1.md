@@ -1,6 +1,6 @@
 ---
 title: "Corporate Biodiversity Footprint"
-excerpt: "IDL mean CBF per indsutry-country
+excerpt: "IDL mean CBF per indsutry-country"
 collection: portfolio
 ---
 
