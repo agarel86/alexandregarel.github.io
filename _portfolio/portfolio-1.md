@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Corporate Biodiversity Footprint"
+excerpt: "IDL mean CBF per indsutry-country<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Paper: Garel, A., Romec, A., Sautner, Z., & Wagner, A. F. (2023). Do investors care about biodiversity?. Review of Finance, 2024.
+The Excel file provide, based on our sample of international companie, the mean CBF (Corproate Biodiversity Footprint) per industry and per industry-country.
+[Link to the dataset] (other_file.md) 
