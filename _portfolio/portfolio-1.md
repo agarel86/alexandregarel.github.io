@@ -8,4 +8,4 @@ Paper: Garel, A., Romec, A., Sautner, Z., & Wagner, A. F. (2023). Do investors c
 
 The Excel file provides, based on our sample of international companies, the mean CBF (Corporate Biodiversity Footprint) per industry and per industry-country. For more information, please refer to the paper.
 
-[Link to the dataset](Country-Industry Average CBF values.xlsx)
+[Link to the dataset](./Country-Industry Average CBF values.xlsx)
