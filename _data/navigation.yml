@@ -6,11 +6,13 @@ main:
   - title: "Press"
     url: /talks/    
 
+- title: "Code and Data"
+    url: /portfolio/
+    
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Code and Data"
-    url: /portfolio/
+  
         
 #  - title: "Blog Posts"
  #   url: /year-archive/
