@@ -3,9 +3,6 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Working Papers"
-    url: /year-archive/
-
 - title: "Code and Data"
     url: /portfolio/
 
